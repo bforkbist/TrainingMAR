@@ -4,5 +4,5 @@ a=10
 b=20
 c=50
 print("hey")
-print("conflict")
+print("conflict removed")
 print(a+b+c)
